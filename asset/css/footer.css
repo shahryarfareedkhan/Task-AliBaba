@@ -1,0 +1,59 @@
+.abt-sup{ 
+         left: 0;
+         bottom: 0;
+         width: 100%;
+         text-align: center;
+         overflow: hidden;
+         font-size: 1rem;
+
+}
+.Related-Searche{
+         display: flex;
+         flex-direction: row;
+         margin-left: 11rem;
+         margin-right: 11rem;
+         background-color: white;
+         box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+         
+}
+.Related-Searche > div{
+         
+        text-align: left;
+        padding: 0.5rem;
+        font-size: 1rem;
+       margin-left: 2rem;
+       
+
+}
+
+.Related-Searche > div>a{
+         text-decoration: none;
+     
+         color: black;
+
+
+}
+.Related-Searche > div>a:hover{
+         
+         color: #ff6a00;
+
+}
+.abt-product{
+         display: flex;
+         flex-direction: row;
+         margin-left: 11rem;
+         margin-right: 11rem;
+         background-color: white;
+         box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+         margin-bottom: 1rem;
+         
+}
+.abt-product > div{
+         
+        text-align: left;
+        padding: 0.5rem;
+        font-size: 1rem;
+       margin-left: 2rem;
+
+}
+

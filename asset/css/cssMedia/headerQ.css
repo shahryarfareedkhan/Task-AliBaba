@@ -1,0 +1,31 @@
+
+@media only screen and (max-width: 600px) {
+         .search__input {
+           font-size: 16px !important;
+           opacity: 0;
+           visibility: hidden;
+           width: 0;
+         }
+         .search__btn {
+           display: none !important;
+         }
+         .search__icon {
+           display: flex !important;
+           color: #fff;
+           align-items: center;
+           flex: 6;
+           position: absolute;
+           right: 5rem;
+           cursor: pointer;
+           height: 80px;
+           line-height: 80px;
+         }
+         .message {
+           position: relative;
+           top: 80px;
+           background: #f3f3f3;
+           padding: 0.5rem 1.5rem;
+           display: block !important;
+           text-align: center;
+         }
+       }
